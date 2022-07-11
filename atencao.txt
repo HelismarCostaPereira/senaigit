@@ -1,0 +1,2 @@
+Professor tudo bem?!
+estava checando as atividade de versionamento para entregar o conteúdo de forma satizfatória, porém a video aula desapareceu bem no momento que fiz o push das Branchs para o GitHub, mas eu conferi e as duas Branchs "Develop" e "Hotfix" estão lá. mas como estou sem o video completo para finalizar, fiz um push com esta nota para informar.
