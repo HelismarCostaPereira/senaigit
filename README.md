@@ -1,3 +1,3 @@
 # senaigit
-repositório de estudos
-checando repositorio
+repositório de estudos do senai
+
